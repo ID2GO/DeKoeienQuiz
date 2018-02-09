@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Cow Quiz App</string>
+    <string name="Q1">Q1: These cows are jumping for joy. Why is this? (Multiple answers can be selected, if you like)</string>
+    <string name="q1_A">A: It\'s time to eat</string>
+    <string name="q1_B">B: It\'s time for milking</string>
+    <string name="Q2">Q2: What means \"AI\" to a farmer?</string>
+    <string name="Q3">Q3 What race do you see here? Enter your answer in the textfield below.</string>
+    <string name="inputText">Write here your answer</string>
+    <string name="Q4">Q4: The duration of a cows pregnancy can be compared to:</string>
+    <string name="q4_A">A: Hippopotamus</string>
+    <string name="q4_B">B: Giraffe</string>
+    <string name="q4_C">C: Human</string>
+    <string name="totalPoints">0</string>
+    <string name="summaryText">Summary</string>
+    <string name="Check_Answers">Check Answers</string>
+    <string name="Submit_Answers">Submit Answers</string>
+    <!-- Message to let the user know his score in the format of "You scored 4 out of 6" -->
+    <string name="toast_message">You scored <xliff:g example="4"> %s</xliff:g> out of 6</string>
+
+
+
+    <!--
+        Whipped cream topping for the order summary. It will be shown in the format of
+        "Add whipped cream? true" or "Add whipped cream? false". [CHAR LIMIT=NONE]
+      -->
+    <string name="collection_of_points">Point count: </string>
+    <!--xliff:g id="" example="10"> </xliff:g> out of 6</string>-->
+
+
+    <string name="answer_summary">Answers given: <xliff:g id="" example="Amy"> </xliff:g></string>
+
+    <!--Checkboxes-->
+    <string name="answer_summary_q1_1">You selected answer Q1_1:  <xliff:g id="hasAnswerQ1_1" example="true"> </xliff:g></string>
+    <string name="answer_summary_q1_2">You selected answer Q1_2:  <xliff:g id="hasAnswerQ1_2" example="true"> </xliff:g></string>
+    <string name="answer_summary_q1_3">You selected answer Q1_3:  <xliff:g id="hasAnswerQ1_3" example="true"> </xliff:g></string>
+
+<!--Radiobuttons-->
+    <string name="correct_selection">You selected: <xliff:g id="" example="true"> </xliff:g> </string>
+
+<!--Textinput -->
+    <string name="text_input">You wrote: <xliff:g id="ASTI" example="Amy"> </xliff:g></string>
+
+<!--Checkboxes-->
+    <!--
+    Name for the order summary. It will be shown in the format of "Name: Amy" where Amy is the
+    user's name. [CHAR LIMIT=20]
+    -->
+    <string name="answer_summary_q4_1">You selected answer Q1_1:  <xliff:g id="hasAnswerQ4_1" example="true"> </xliff:g></string>
+    <string name="answer_summary_q4_2">You selected answer Q1_2:  <xliff:g id="hasAnswerQ4_2" example="true"> </xliff:g></string>
+    <string name="answer_summary_q4_3">You selected answer Q1_3:  <xliff:g id="hasAnswerQ4_3" example="true"> </xliff:g></string>
+    <string name="q1_C">C: It\'s spring time</string>
+    <string name="incorrect">Artificial Intelligence</string>
+    <string name="correct">Artificial Insemination</string>
+
+
+</resources>

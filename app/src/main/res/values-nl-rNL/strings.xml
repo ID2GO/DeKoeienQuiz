@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">De Koeien Quiz</string>
+    <string name="Q1">Q1: Waarom maken deze koeien een vreugde dansje?</string>
+    <string name="q1_A">A:  Het is etenstijd</string>
+    <string name="q1_B">B: het is melktijd</string>
+    <string name="q1_C">C: Het is lente</string>
+    <string name="Q2">Q2: Wat betekent \"KI\" voor de boer?</string>
+    <string name="incorrect">Kunstmatige Intelligentie</string>
+    <string name="correct">Kunstmatige Inseminatie</string>
+    <string name="Q3">Q3: Welk ras zie je hier? Voer hieronder je antwoord in.</string>
+    <string name="inputText">Schrijf hier je antwoord</string>
+    <string name="Q4">Q4: De duur van de dracht van een koe kun je vergelijken met:</string>
+    <string name="q4_A">A: Nijlpaard</string>
+    <string name="q4_B">B: Giraffe</string>
+    <string name="q4_C">C: Mens</string>
+</resources>
